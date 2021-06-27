@@ -1,6 +1,6 @@
 ## GreenCloud
 
---> Dark Theme Extension.
+-> Dark Theme Extension.
 
 - PinkBlush Dark
 - SeaGreen Dark

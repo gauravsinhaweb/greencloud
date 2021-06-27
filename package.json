@@ -1,9 +1,12 @@
 {
   "name": "greencloud",
-  "displayName": "GreenCloud",
-  "description": "Dark Theme Extension",
-  "publisher": "GauravSinha",
   "version": "2.0.5",
+  "description": "A VS Code extension (theme)",
+  "repository": "https://github.com/gauravsinhaweb/greencloud.git",
+  "author": "sinhagaurav.me@gmail.com",
+  "license": "MIT",
+  "displayName": "GreenCloud",
+  "publisher": "GauravSinha",
   "keywords": [
     "theme",
     "contrast",
@@ -37,8 +40,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gaurav Sinha",
-  "license": "ISC",
   "activationEvents": [
     "*"
   ]
