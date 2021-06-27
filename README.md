@@ -2,10 +2,7 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://marketplace.visualstudio.com/items?itemName=GauravSinha.greencloud)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://marketplace.visualstudio.com/items?itemName=GauravSinha.greencloud)
-<<<<<<< HEAD
-=======
 
->>>>>>> e1e06318d646e4cc049c22e3fc6a74ad3dad2e85
 
 -> Dark Theme Extension.
 
