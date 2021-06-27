@@ -2,7 +2,6 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://marketplace.visualstudio.com/items?itemName=GauravSinha.greencloud)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://marketplace.visualstudio.com/items?itemName=GauravSinha.greencloud)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/gauravsinhaweb/greencloud/releases/)
 
 
 -> Dark Theme Extension.
