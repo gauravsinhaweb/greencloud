@@ -2,6 +2,10 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://marketplace.visualstudio.com/items?itemName=GauravSinha.greencloud)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://marketplace.visualstudio.com/items?itemName=GauravSinha.greencloud)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 927e7583bb281ae44b858d7f7d092475e5916c64
 
 -> Dark Theme Extension.
 
@@ -59,6 +63,10 @@
 | ![#634f30](https://via.placeholder.com/15/634f30/634f30?text=+) `#634f30`                       | Parameters inside functions (semantic highlighting only)                                             |
 | ![#0f0f14](https://via.placeholder.com/15/0f0f14/f0f14?text=+) `#0f0f14`                        | Terminal Black                                                                                       |
 | ![#9699a3](https://via.placeholder.com/15/9699a3/9699a3?text=+) `#9699a3`                       | Comments                                                                                             |
+<<<<<<< HEAD
 | ![#d5d6db](https://via.placeholder.com/15/d5d6db/5d6db?text=+) `#d5d6db`                        | Editor Background                                                                                    |
+=======
+| ![#d5d6db](https://via.placeholder.com/15/d5d6db/5d6db?text=+) `#d5d6db`                        | Editor Background                                                             
+>>>>>>> 927e7583bb281ae44b858d7f7d092475e5916c64
 
 > If you like it don't forget to give it a star✨
