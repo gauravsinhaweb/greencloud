@@ -1,0 +1,45 @@
+{
+  "name": "greencloud",
+  "displayName": "GreenCloud",
+  "description": "Dark Theme Extension",
+  "publisher": "GauravSinha",
+  "version": "2.0.5",
+  "keywords": [
+    "theme",
+    "contrast",
+    "dark",
+    "light",
+    "greencloud",
+    "clean"
+  ],
+  "icon": "icons/greencloud.png",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GreenCloud Sea Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SeaGreen-dark-theme.json"
+      },
+      {
+        "label": "GreenCloud Blush Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlushPink-dark-theme.json"
+      }
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Sinha",
+  "license": "ISC",
+  "activationEvents": [
+    "*"
+  ]
+}
